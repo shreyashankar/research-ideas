@@ -2,6 +2,8 @@
 
 I work in data management for ML systems. This is an emerging but broad field. This is a list of proposed abstracts I'd love to work on, if I had the time. If you would like to contribute / add an abstract, please make a PR and we can "workshop" the abstract together before merging to the main branch.
 
+If you want to work on one of these ideas, please steal them! But please email me so I can get excited :)
+
 ## More Concrete Ideas
 
 ### Debugging Feature Generation Workflows via Lineage Visualizations
