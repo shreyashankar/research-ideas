@@ -29,3 +29,5 @@ Tags: Databases, ML
 ## Clippy for Computational Notebooks
 
 Computational notebooks are widely used for exploratory data analysis (e.g., to create plots and visualizations). Sometimes users do not know exactly what to compute or visualize. In this work, we introduce an "assistant" for computational notebooks, modeled after Clippy from Microsoft Office. Users interact with the assistant via a natural language interface and can issue commands like, "update plot font to SF UI" or "train a logistic regression model on the dataframe."
+
+Tags: HCI, PL, AI
