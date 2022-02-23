@@ -25,3 +25,7 @@ Tags: HCI
 Current methods to determine whether a dataset has experienced "distribution shift" involve partitioning the dataset into predefined static subsets and computing some distance metrics between these subsets. A simple extension to the streaming ML setting (i.e., where predictions are made over hypothetically infinite streams of data) involves diffing windows of live predictions with each other or the training set. However, it is unclear how large these windows should be or how much these windows should overlap. In this work, we investigate... (partition stream with some learned critera and see how these partitions change over time?) We demonstrate our open-source library of metric functions that accept a stream of data and return a "consistency score" for any time step.
 
 Tags: Databases, ML
+
+## Clippy for Computational Notebooks
+
+Computational notebooks are widely used for exploratory data analysis (e.g., to create plots and visualizations). Sometimes users do not know exactly what to compute or visualize. In this work, we introduce an "assistant" for computational notebooks, modeled after Clippy from Microsoft Office. Users interact with the assistant via a natural language interface and can issue commands like, "update plot font to SF UI" or "train a logistic regression model on the dataframe."
